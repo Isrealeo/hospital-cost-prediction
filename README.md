@@ -42,7 +42,7 @@ An interactive dashboard was created using Power BI to visualize hospital cost p
 
 ### Dashboard Report
 
-📄 [View Power BI Report](powerbi/portfolio project.pdf)
+📄 [View Power BI Report](powerbi/portfolio_project.pdf)
 ---
 ## Machine Learning Models
 Two regression models were used:
