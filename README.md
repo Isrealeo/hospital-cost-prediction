@@ -1,13 +1,13 @@
 # 🏥 Hospital Treatment Cost Prediction
 
-## 📌 Project Overview
+## Project Overview
 This project predicts hospital treatment costs using patient demographics, clinical conditions, and hospital operational data.
 
 It uses machine learning to understand key cost drivers in healthcare.
 
 ---
 
-## 🎯 Objective
+## Objective
 To predict `total_cost_€` based on:
 - Clinical factors
 - Patient characteristics
@@ -15,14 +15,14 @@ To predict `total_cost_€` based on:
 
 ---
 
-## 📊 Dataset
+## Dataset
 - 3,000 patient records
 - 15 features
 - Target: `total_cost_€`
 
 ---
 
-## 🔑 Key Features
+## Key Features
 - age
 - gender
 - chronic_condition
@@ -35,13 +35,13 @@ To predict `total_cost_€` based on:
 
 ---
 
-## 🤖 Model Used
+## Model Used
 - Linear Regression
 - Random Forest Regressor
 
 ---
 
-## 📈 Key Insight
+## Key Insight
 The most important cost drivers are:
 - length_of_stay_days
 - procedures_count
@@ -49,12 +49,12 @@ The most important cost drivers are:
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 Hospital cost is primarily driven by clinical workload and length of stay rather than demographics.
 
 ---
 
-## 🛠 Tools
+## Tools
 - Python
 - Pandas
 - Scikit-learn
