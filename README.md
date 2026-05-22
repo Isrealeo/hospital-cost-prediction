@@ -30,6 +30,20 @@ This project builds a regression model to predict `total_cost_€`.
 
 ---
 
+## 📊 Power BI Dashboard
+
+An interactive dashboard was created using Power BI to visualize hospital cost patterns and operational insights.
+
+### Key Visual Insights:
+- Cost distribution across departments
+- Key drivers of hospital treatment cost
+- Patient clinical intensity analysis
+- Operational efficiency trends
+
+### Dashboard Report
+
+📄 [View Power BI Report](powerbi/hospital_dashboard.pdf)
+---
 ## Machine Learning Models
 Two regression models were used:
 
