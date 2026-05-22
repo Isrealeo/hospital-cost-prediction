@@ -1,13 +1,13 @@
 # 🏥 Hospital Treatment Cost Prediction
 
-## 📌 Project Overview
+## Project Overview
 This project uses machine learning to predict hospital treatment costs based on patient demographics, clinical conditions, and operational hospital data.
 
 The goal is to identify key drivers of healthcare cost and build a predictive regression model.
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 Hospitals need to understand and predict treatment costs in order to:
 - Improve resource allocation
 - Optimize operational efficiency
@@ -17,7 +17,7 @@ This project builds a regression model to predict `total_cost_€`.
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 - 3,000 patient records
 - 15 features
 - Target variable: `total_cost_€`
@@ -30,7 +30,7 @@ This project builds a regression model to predict `total_cost_€`.
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 Two regression models were used:
 
 - Linear Regression (baseline model)
@@ -38,14 +38,14 @@ Two regression models were used:
 
 ---
 
-## 📈 Key Results
+## Key Results
 - Linear Regression achieved strong predictive performance on structured healthcare data
 - Random Forest confirmed feature importance rankings
 - Model demonstrated high interpretability due to structured feature relationships
 
 ---
 
-## 🔑 Key Cost Drivers
+## Key Cost Drivers
 The most important factors influencing hospital treatment cost are:
 
 - Length of stay (strongest driver)
@@ -56,19 +56,19 @@ These variables reflect overall clinical workload and resource utilization.
 
 ---
 
-## 📊 Key Insight
+## Key Insight
 Hospital treatment cost is primarily driven by **clinical intensity and duration of care**, rather than patient demographics.
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 This project demonstrates that hospital cost prediction can be effectively modeled using structured clinical and operational data.
 
 It highlights how healthcare costs are strongly influenced by treatment complexity and hospital resource usage.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas
 - Scikit-learn
@@ -78,7 +78,7 @@ It highlights how healthcare costs are strongly influenced by treatment complexi
 
 ---
 
-## 📓 Notebook
+## Notebook
 Full analysis is available in the Jupyter Notebook:
 `Hospital_Cost_Project.ipynb`
 
@@ -92,5 +92,6 @@ Includes:
 
 ---
 
-## 🚀 Author
+## Author
+NNWAMINOGBE ISREAL OHUNMAEHUNI
 Data Science & Analytics Project
